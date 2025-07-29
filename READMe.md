@@ -20,20 +20,35 @@ This project demonstrates end-to-end workflow: data preprocessing, model trainin
 ## 📁 Project Structure
 Student-Performance-Predictor/
 │
+
 ├── data/
+
 │ └── StudentPerformanceFactors.csv ← Input dataset
+
 │
+
 ├── model/
+
 │ ├── Ann_exam_score_model.pkl ← Trained PyTorch model
+
 │ └── scaler.pkl ← Fitted StandardScaler
+
 │
+
 ├── notebooks/
+
 │ ├── train_student_model.ipynb ← Training notebook
+
 │ └── predict_exam_score.ipynb ← Prediction notebook
+
 │
+
 ├── train_student_model.py ← Training script
+
 ├── predict_exam_score.py ← Prediction script
+
 ├── README.md ← This file
+
 └── requirements.txt ← Python dependencies
 
 ---
