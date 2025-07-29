@@ -37,15 +37,15 @@ Student-Performance-Predictor/
 
 ├── notebooks/
 
-│ ├── train_student_model.ipynb ← Training notebook
+│ ├── model_training.ipynb ← Training notebook
 
-│ └── predict_exam_score.ipynb ← Prediction notebook
+│ └── predictor.ipynb ← Prediction notebook
 
 │
 
-├── train_student_model.py ← Training script
+├── model_training.py ← Training script
 
-├── predict_exam_score.py ← Prediction script
+├── predictor.py ← Prediction script
 
 ├── README.md ← This file
 
