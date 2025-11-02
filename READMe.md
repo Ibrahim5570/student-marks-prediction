@@ -57,7 +57,7 @@ Student-Performance-Predictor/
 
 ### 1. Clone the repo
 ```bash
-  git clone https://github.com/yourusername/Student-Performance-Predictor.git
+  git clone https://github.com/Ibrahim5570/Student-Performance-Predictor.git
   cd Student-Performance-Predictor
 ```
 ### 2. Install Dependencies
@@ -130,3 +130,4 @@ Connect with me
 ---
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibrahim5570)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-abdullah-220917319)
+
